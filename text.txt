@@ -1,1 +1,3 @@
-this is my first test file
+this is my first text file
+and it was a lot of fun to do 
+i really enjoyed doing this
